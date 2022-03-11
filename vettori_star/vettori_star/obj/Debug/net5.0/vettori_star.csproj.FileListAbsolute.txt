@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.AssemblyInfo.cs
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.exe
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.deps.json
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.runtimeconfig.json
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.dll
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\ref\vettori_star.dll
+C:\Users\Utente\Desktop\vettori_star\vettori_star\bin\Debug\net5.0\vettori_star.pdb
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.dll
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\ref\vettori_star.dll
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.pdb
+C:\Users\Utente\Desktop\vettori_star\vettori_star\obj\Debug\net5.0\vettori_star.genruntimeconfig.cache
