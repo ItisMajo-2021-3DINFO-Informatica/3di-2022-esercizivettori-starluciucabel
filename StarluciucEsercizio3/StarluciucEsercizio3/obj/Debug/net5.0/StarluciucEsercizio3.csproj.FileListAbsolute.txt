@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\ref\StarluciucEsercizio3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\bin\Debug\net5.0\StarluciucEsercizio3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\ref\StarluciucEsercizio3.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\StarluciucEsercizio3\StarluciucEsercizio3\obj\Debug\net5.0\StarluciucEsercizio3.genruntimeconfig.cache
