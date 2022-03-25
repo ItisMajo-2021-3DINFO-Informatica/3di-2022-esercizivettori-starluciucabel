@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\ref\Starluciuc_es_4.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\bin\Debug\net5.0\Starluciuc_es_4.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\ref\Starluciuc_es_4.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-starluciucabel\Starluciuc_es_4\Starluciuc_es_4\obj\Debug\net5.0\Starluciuc_es_4.genruntimeconfig.cache
